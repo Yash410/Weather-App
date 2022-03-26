@@ -155,9 +155,9 @@ else if(ch==='7'){
     }
 }
 else if(ch==='5'){
-    search.style.backgroundColor='#4ea2de';
-    search_text.style.backgroundColor='#3f8dc4'
-    search_bar.style.backgroundColor='#3f8dc4'
+    search.style.backgroundColor='#284654';
+    search_text.style.backgroundColor='#1d333d'
+    search_bar.style.backgroundColor='#1d333d'
 }
 else if(ch==='6'){
     search.style.backgroundColor='#01284d';
