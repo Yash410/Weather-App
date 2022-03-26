@@ -153,9 +153,9 @@ else if(ch==='5'){
     search_bar.style.backgroundColor='#3f8dc4'
 }
 else if(ch==='6'){
-    search.style.backgroundColor='#284654';
-    search_text.style.backgroundColor='#1d333d'
-    search_bar.style.backgroundColor='#1d333d'  
+    search.style.backgroundColor='#01284d';
+    search_text.style.backgroundColor='#083f73'
+    search_bar.style.backgroundColor='#083f73' 
 }
 }
 
