@@ -144,9 +144,9 @@ else if(ch==='3'){
 }
 else if(ch==='7'){
     if(id===701||id===741){
-    search.style.backgroundColor='#4ea2de';
-    search_text.style.backgroundColor='#3f8dc4'
-    search_bar.style.backgroundColor='#3f8dc4'
+        search.style.backgroundColor='#858585';
+        search_text.style.backgroundColor='#bcbcbc'
+        search_bar.style.backgroundColor='#bcbcbc' 
     }
     else{
         search.style.backgroundColor='#b07609';
@@ -190,7 +190,7 @@ else if(ch==='3')
 return "url('rain.jpg')";
 else if(ch==='7'){
     if(id===701 ||id===741)
-return "url('cloudy.jpg')"
+    return "url('cloudy.jpg')"
 else
 return "url('summer_haze.jpg')"
 }
