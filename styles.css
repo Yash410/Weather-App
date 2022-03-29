@@ -17,6 +17,9 @@ body{
     position: fixed;
     width: 100%;
 }
+::placeholder{
+	color:white;
+}
 #search-text{
     border-style: none;
     color: white;
